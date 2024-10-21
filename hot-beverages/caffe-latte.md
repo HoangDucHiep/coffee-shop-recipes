@@ -2,7 +2,7 @@
 
 ## Description: Standard caffé latte
 
-## Ingredients
+## Ingredients and somethings
 
 - 1 oz espresso roast
 - 1 cup almond milk
@@ -13,7 +13,7 @@
 
 ### Step 1
 
-- Prepare espresso shot and pour into mug once brewed.
+- Prepare espresso shot and pour into mug twice brewed.
 
 ### Step 2
 
