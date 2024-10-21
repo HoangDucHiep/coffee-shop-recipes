@@ -1,6 +1,6 @@
 # Mocha Frozen Blended Coffee​
 
-## Description: The Mocha Frozen Blended Coffee, where coffee, milk, ice and chocolaty goodness all come together for a delicious cold drink, I want a conflig
+## Description: The Mocha Frozen Blended Coffee, where coffee, milk, ice and chocolaty goodness all come together for a delicious cold drink, This must be a config
 
 ## Ingredients
 
@@ -9,7 +9,7 @@
 - 3/4 cup whole milk
 - 2 Tbsp dark chocolate sauce/syrup
 - Whipped cream
-- Chocolate shavings, and milk
+- Chocolate shavings, and no, no any milk
 
 ## How to Make Mocha Frozen Blended Coffee​
 
