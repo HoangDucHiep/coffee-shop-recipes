@@ -7,7 +7,7 @@
 - 1 shot Espresso Roast
 - 1 1/2 cups ice
 - 3/4 cup whole milk
-- 2 Tbsp dark chocolate sauce/syrup
+- 3 Tbsp white chocolate sauce/syrup mapple
 - Whipped cream
 - Chocolate shavings, and no, no any milk
 
@@ -15,11 +15,11 @@
 
 ### Step 1
 
-- Prepare 1 shot of espresso.
+- Prepare 2 shot of Coffee.
 
 ### Step 2
 
-- Place ice, milk, chocolate sauce and espresso into a blender. Start at low speed, then blend on high for 30 seconds.
+- Place ice, milk, chocolate, syrup sauce and espresso into a blender. Start at low speed, then blend on high for 30 seconds.
 
 ### Step 3
 
